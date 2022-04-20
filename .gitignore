@@ -8,3 +8,5 @@ db_handler.dSYM/Contents/Info.plist
 db_handler.dSYM/Contents/Resources/DWARF/db_handler
 test_parse.dSYM/Contents/Info.plist
 test_parse.dSYM/Contents/Resources/DWARF/test_parse
+.config
+*.o
