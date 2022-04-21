@@ -1,1 +1,0 @@
-int parse(char *path_to_conf);

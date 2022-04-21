@@ -1,6 +1,0 @@
-path: /test/path
-
-database:
-  url: postgresql://test:1@localhost/working
-  host: localhost
-  port: 8888
